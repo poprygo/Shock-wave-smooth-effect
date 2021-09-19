@@ -28,3 +28,9 @@
 * __wave_distortion__ by default is `1.05`, in range `1 <= wave_distortion <= 1.2`
 * __image_depth__ by default is `3`, in range `1 <= image_depth <= 8`
 * __circle_radius__ by default is `5`, in range `80 <= circle_radius <= 120`
+
+## Visualization
+
+
+https://user-images.githubusercontent.com/70857282/133938673-64dbdade-97b7-4724-98bb-849480de4431.mp4
+
