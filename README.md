@@ -1,1 +1,1 @@
-# srk-project
+# Shock wave smooth effect
