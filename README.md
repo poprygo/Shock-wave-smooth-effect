@@ -8,13 +8,15 @@
 
 ## For compiling source code following libraries were used:
 * __pygame==2.0.1__ 
-* __pip==21.0.1__ 
 * __numpy==1.21.2__
 * __pillow==8.3.2__
 
 ## Start-from-zero
-* __pip install -r requirements__
-* __Ctrl+Shift+F10__
+* __Download and install Python https://www.python.org/downloads/ __
+* __Open terminal and run the following commands:__
+`pip install -r requirements.txt`\
+`python main.py -im "Background_image.jpg" -wpv 6 -wd 1.01 -id 4 -cr 120`
+ 
 
 ## Image loading:
 * Drop image to project folder and specify it's name as shown below: \
