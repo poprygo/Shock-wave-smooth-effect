@@ -12,7 +12,7 @@
 * __numpy==1.21.2__
 * __pillow==8.3.2__
 
-## How-to-use:
+## Start-from-zero
 * __pip install -r requirements__
 * __Ctrl+Shift+F10__
 
