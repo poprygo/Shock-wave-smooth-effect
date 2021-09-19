@@ -19,6 +19,6 @@
 `Image = pygame.image.load("Background_image.jpg")`
 
 
-## Shock wave parameters:
+## Shock wave params:
 
 * __wave_propagation_velocity__ by default is `5`, in range `0 <= wave_propagation_velocity <= 20`
