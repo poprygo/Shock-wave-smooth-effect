@@ -7,8 +7,8 @@
 * __Windows 10 10.0__
 
 ## For compiling source code following libraries were used:
-*__pygame==2.0.1__ \
-*__pip==21.0.1__ \
+* __pygame==2.0.1__ 
+* __pip==21.0.1__ 
 
 ## How-to-use:
 *__Type pip install -r requirements in cmd__
@@ -21,4 +21,4 @@ Drop image to project folder and specify it's name as shown below: \
 
 ## Shock wave parameters:
 
-*__wave_propagation_velocity__ by default is 5, it's in range 0<= wave_propagation_velocity <= 20
+* __wave_propagation_velocity__ by default is 5, it's in range 0<= wave_propagation_velocity <= 20__
