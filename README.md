@@ -31,5 +31,9 @@
 
 ## Visualization
 
-![Vid](https://i.gyazo.com/44e66263622129e77d174a2515881a1b.gif)
+
+
+
+https://user-images.githubusercontent.com/70857282/133938830-10767b7a-323c-4e6c-ba83-08574bc8e34d.mp4
+
 
