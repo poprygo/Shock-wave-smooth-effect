@@ -13,7 +13,7 @@
 
 ## Start-from-zero
 * __Download and install Python__ https://www.python.org/downloads/ 
-* __Open terminal and run the following commands:__ \
+* __Open terminal in project folder and run the following commands:__ \
 `pip install -r requirements.txt`\
 `python main.py -im "Background_image.jpg" -wpv 6 -wd 1.01 -id 4 -cr 120`
  
