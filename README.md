@@ -9,6 +9,8 @@
 ## For compiling source code following libraries were used:
 * __pygame==2.0.1__ 
 * __pip==21.0.1__ 
+* __numpy==1.21.2__
+* __pillow==8.3.2__
 
 ## How-to-use:
 * __pip install -r requirements__
