@@ -15,7 +15,7 @@
 * __Ctrl+Shift+F10__
 
 ## Image loading:
-Drop image to project folder and specify it's name as shown below: \
+* Drop image to project folder and specify it's name as shown below: \
 `Image = pygame.image.load("Background_image.jpg")`
 
 
