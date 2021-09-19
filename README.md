@@ -32,5 +32,5 @@
 ## Visualization
 
 
-https://user-images.githubusercontent.com/70857282/133938673-64dbdade-97b7-4724-98bb-849480de4431.mp4
+<a href="https://gyazo.com/44e66263622129e77d174a2515881a1b"><img src="https://i.gyazo.com/44e66263622129e77d174a2515881a1b.gif" alt="Image from Gyazo" width="636"/></a>
 
