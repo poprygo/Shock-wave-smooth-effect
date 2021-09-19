@@ -19,7 +19,7 @@
 ## Image loading:
 * Drop image to project folder and specify it's name as shown below: \
 `filename = "Background_image.jpg"` \
-`Image = pygame.image.load(filename=filename)`
+`Image = pygame.image.load(filename)`
 
 
 ## Shock wave params:
