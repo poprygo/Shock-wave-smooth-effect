@@ -1,1 +1,1 @@
-# Shock wave smooth effect
+# Smooth shock wave effect
