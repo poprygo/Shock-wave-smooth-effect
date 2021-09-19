@@ -15,10 +15,10 @@ Type pip install -r requirements in cmd
 Ctrl+Shift+F10 
 
 ## Image loading:
-*Drop image to project folder and specify it's name as shown below
-**`Image = pygame.image.load("Background_image.jpg")`
+Drop image to project folder and specify it's name as shown below: \
+`Image = pygame.image.load("Background_image.jpg")`
 
 
 ## Shock wave parameters:
 
-**wave_propagation_velocity by default is 5, it's in range 0<= wave_propagation_velocity <= 20
+*__wave_propagation_velocity__ by default is 5, it's in range 0<= wave_propagation_velocity <= 20
