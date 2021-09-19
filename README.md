@@ -11,8 +11,8 @@
 * __pip==21.0.1__ 
 
 ## How-to-use:
-*__Type pip install -r requirements in cmd__
-*__Ctrl+Shift+F10__
+* __Type pip install -r requirements in cmd__
+* __Ctrl+Shift+F10__
 
 ## Image loading:
 Drop image to project folder and specify it's name as shown below: \
