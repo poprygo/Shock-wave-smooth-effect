@@ -11,7 +11,7 @@
 * __pip==21.0.1__ 
 
 ## How-to-use:
-* __Type pip install -r requirements in cmd__
+* __pip install -r requirements __
 * __Ctrl+Shift+F10__
 
 ## Image loading:
