@@ -22,6 +22,6 @@
 ## Shock wave params:
 
 * __wave_propagation_velocity__ by default is `5`, in range `0 <= wave_propagation_velocity <= 30`
-* __wave_distortion__ by default is `1.05`, in range `1 <= wave_distortion <= 1.3`
+* __wave_distortion__ by default is `1.05`, in range `1 <= wave_distortion <= 1.2`
 * __image_depth__ by default is `3`, in range `1 <= image_depth <= 8`
 * __circle_radius__ by default is `5`, in range `80 <= circle_radius <= 120`
