@@ -21,4 +21,4 @@ Drop image to project folder and specify it's name as shown below: \
 
 ## Shock wave parameters:
 
-* __wave_propagation_velocity__ by default is 5, it's in range 0<= wave_propagation_velocity <= 20
+* __wave_propagation_velocity__ by default is 5, it's in range __0<= wave_propagation_velocity <= 20__
