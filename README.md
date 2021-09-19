@@ -1,10 +1,10 @@
 # Smooth shock wave effect
 
 ## For running the application were used:
-*PyCharm 2020.3.2 (Professional Edition) Build #PY-203.6682.179, built on December 30, 2020 \
-*Runtime version: 11.0.9.1+11-b1145.63 amd64 \
-*VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o. \
-*Windows 10 10.0 \
+* __PyCharm 2020.3.2 (Professional Edition) Build #PY-203.6682.179, built on December 30, 2020__
+* __Runtime version: 11.0.9.1+11-b1145.63 amd64__
+* __VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.__
+* __Windows 10 10.0__
 
 ## For compiling source code following libraries were used:
 *__pygame==2.0.1__ \
