@@ -97,7 +97,7 @@ def get_parser():
                         help='wave_distortionis in range 1 <= wave_distortion <= 1.2')
     parser.add_argument('-id', '--image_depth', default=3, type=int,
                         help='image_depth is in range 1 <= image_depth <= 8')
-    parser.add_argument('-cr', '--circle_radius', default=100, tye=int,
+    parser.add_argument('-cr', '--circle_radius', default=100, type=int,
                         help='circle_radius is in range 80 <= circle_radius <= 120')
     return parser
 
